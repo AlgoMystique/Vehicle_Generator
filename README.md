@@ -22,7 +22,7 @@ To run this application, make sure you have the following installed:
 Node.js
 Inquirer package
 
-## Installation
+##-Installation
 
 1. **_Clone the repository:_**
 
