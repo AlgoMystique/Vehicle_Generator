@@ -2,7 +2,7 @@
 
 The Vehicle Builder application is a command-line interface (CLI) tool that lets users manage and interact with various types of vehicles. Users can create a new vehicle or select an existing one, and perform specific actions with it. This tool is designed to allow developers to expand an existing codebase by adding new vehicle types and actions, providing a practical example of object-oriented programming and class-based design.
 
-# Features
+## Features
 
 Vehicle Creation: Create new vehicles of specified types—Car, Truck, and Motorbike.
 
@@ -14,16 +14,16 @@ Vehicle Selection: Choose from existing vehicles to view and use vehicle-specifi
 
 Persistent Action Menu: Users are returned to the actions menu after each interaction, allowing multiple actions until they choose to exit.
 
-# Getting Started
+## Getting Started
 
-# Prerequisites
+## Prerequisites
 
 To run this application, make sure you have the following installed:
 
 Node.js
 Inquirer package
 
-# Installation
+## Installation
 
 1. **_Clone the repository:_**
 
@@ -52,8 +52,9 @@ Unique Prompts: Trucks and motorbikes have specific details required for setup.
 
 4.Continue performing actions until you choose to exit.
 
-# Walkthrough Video
+## Full Walkthrough Video
 
+[Link](https://app.screencastify.com/v2/manage/videos/uwr3iPseqA2mzkocu3hv)
 
 This video demonstrates the complete functionality of the application, including:
 
@@ -65,5 +66,5 @@ Selecting and performing actions with vehicles
 
 Navigating through the actions menu
 
-# License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
