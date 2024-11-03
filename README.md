@@ -14,9 +14,8 @@ Vehicle Selection: Choose from existing vehicles to view and use vehicle-specifi
 
 Persistent Action Menu: Users are returned to the actions menu after each interaction, allowing multiple actions until they choose to exit.
 
-## Getting Started
-
-## Prerequisites
+## Getting Started 
+## -Prerequisites:
 
 To run this application, make sure you have the following installed:
 
